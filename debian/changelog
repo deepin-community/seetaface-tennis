@@ -1,8 +1,10 @@
-seetaface-tennis (1.0.0-1+u001) UNRELEASED; urgency=medium
+seetaface-tennis (1.0.0-1deepin) unstable; urgency=medium
 
   * update
 
- -- likier <likier@sina.cn>  Thu, 28 Apr 2022 17:59:00 +0800
+  * 
+
+ -- Yutao Meng <mengyutao@uniontech.com>  Fri, 17 Mar 2023 17:05:46 +0800
 
 seetaface-tennis (1.0.0-1) unstable; urgency=medium
 
