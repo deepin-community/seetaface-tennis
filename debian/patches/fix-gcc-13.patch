@@ -1,0 +1,11 @@
+
+--- seetaface-tennis-1.0.0.orig/src/memory/orz/pot.cpp
++++ seetaface-tennis-1.0.0/src/memory/orz/pot.cpp
+@@ -4,6 +4,7 @@
+ 
+ #include "pot.h"
+ #include <cstring>
++#include <stdlib.h>
+ 
+ namespace ts {
+ 
